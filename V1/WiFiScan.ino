@@ -2,8 +2,8 @@
 #include <WebSocketsServer.h>
 
 // Constants
-const char* ssid = "VIVOFIBRA-BC90";
-const char* password = "21E5968853";
+const char* ssid = "NOME-WIFI";
+const char* password = "SENHA";
 
 int count = 0;
 String isClicked ="No";
